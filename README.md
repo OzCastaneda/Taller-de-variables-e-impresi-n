@@ -1,2 +1,2 @@
-# Taller-de-variables-e-impresi-n
-Hay 5 ejercicios de Pseint
+# Taller-de-variables-e-impresion
+Hay 5 ejercicios de Pseint realizados
